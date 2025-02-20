@@ -1,3 +1,3 @@
 <script>
-  console.log("POC")  
+  console.log("POC");
 </script>
