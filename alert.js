@@ -1,1 +1,3 @@
-<script>alert(1);</script>
+<script>
+  console.log("POC")  
+</script>
